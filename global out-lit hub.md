@@ -30,8 +30,8 @@ platform focuses on: - Fashion\
 
 ## Competitors
 
--   Amazon\
--   Jumia\
+-   Amazon
+-   Jumia
 -   Noon
 
 ## Work Plan & Deliverables
