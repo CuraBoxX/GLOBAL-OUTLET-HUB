@@ -6,9 +6,9 @@ seamless digital shopping experiences.
 
 ## Project Information
 
-**Project Name:** Global Outlet Hub
-**Instructor:** Eman Abdel Latif
-**License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
+**Project Name:** Global Outlet Hub\
+**Instructor:** Eman Abdel Latif\
+**License:** Creative Commons Attribution 4.0 International (CC BY 4.0)\
 **Project Files (Figma):**
 https://www.figma.com/design/eiOYJn5CXXavJma6wYiiVd/grad-project?node-id=0-1&p=f&t=h3nGYjMiyNcann4L-0
 
